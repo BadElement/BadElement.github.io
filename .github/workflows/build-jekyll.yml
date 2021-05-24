@@ -2,6 +2,8 @@ name: Github Pages
 
 on:
   push:
+    schedule:
+    - cron:  '0 * * * *'
     branches:
       - master  # Here source code branch is `master`, it could be other branch
 
