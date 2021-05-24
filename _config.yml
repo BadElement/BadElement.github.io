@@ -24,18 +24,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: 笔记-杂谈
 email: your-email@domain.com
-author: GitHub User
-copyright: Copyright © 1970-2010
+author: BadElement
+copyright: Copyright © 2021-2021
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A LOVE SHIT MAN.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://badelement.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+favicon: "https://avatars.githubusercontent.com/u/52056834?s=400&u=6aae2816c34bfda92b017eb3a311b6ee683db26b&v=4" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -46,7 +44,7 @@ yat:
 # debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+header_transparent: false
 
 # Google analytics
 # google_analytics: [Tracking ID]
@@ -55,7 +53,7 @@ yat:
 sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "zh-CN"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
