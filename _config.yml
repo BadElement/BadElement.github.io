@@ -163,4 +163,4 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
-  remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "jeffreytse/jekyll-theme-yat"
