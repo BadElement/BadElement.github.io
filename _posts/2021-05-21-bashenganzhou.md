@@ -4,7 +4,7 @@ title: 八声甘州
 author: BadElement
 categories: 文学创造
 banner: https://youimg1.tripcdn.com/target/tg/430/446/703/5d2fb8a190ce4b5c9b0a85a806946df3_C_750_350.jpg
-tags: ci
+tags: 词
 ---
 
 ## 八声甘州-感项脊轩志作
