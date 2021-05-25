@@ -143,7 +143,7 @@ lang: "zh-CN"  # default lang is en
 # Gitment comments
 gitment:
   username: "BadElement"
-  repo: "https://github.com/BadElement/BadElement.github.io"
+  repo: "BadElement.github.io"
   client_id: "6464904ce062bc3604ba"
   client_secret: "77f64e139d6d931462d048b84fdd0182ede271b3"
   redirect_uri: "https://badelement.vercel.app/"   # If you use a custom domain name
