@@ -58,9 +58,6 @@ sidebar:
 
     {%- assign result = hidden | where_exp: "item", "item == 'comments'" -%}
     {%- if result.size == 0 -%}
-
-    {& include gitalk.html %}  
-
     <div class="post-comments">
       {%- if page.comments != false -%}
 
@@ -78,5 +75,3 @@ sidebar:
 
   </section>
 </div>
-
-{& include gitalk.html %}  
