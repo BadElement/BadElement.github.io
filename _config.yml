@@ -129,11 +129,11 @@ lang: "zh-CN"  # default lang is en
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - diary.html
+  - diary.md
   - archives.html
   - categories.html
   - tags.html
-  - about.html
+  - about.md
 
 # Page default value
 defaults:
